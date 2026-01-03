@@ -1,0 +1,27 @@
+Project Interview Evaluation
+2026-01-03 12:00:07.175561
+
+Topics:
+- Machine Learning
+- Backend
+
+Questions:
+- How did you train your machine learning model?
+- How does your backend API handle requests?
+
+Follow-up Questions:
+- Did you experiment with other models?
+- Why did you choose accuracy as the evaluation metric?
+- How would this application scale with more users?
+
+Scores:
+Technical Depth: 7/10
+Clarity: 8/10
+Originality: 7/10
+Understanding: 6/10
+
+Feedback:
+Technical Depth: Can be improved.
+Clarity: Good understanding.
+Originality: Can be improved.
+Understanding: Can be improved.

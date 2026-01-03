@@ -1,0 +1,3 @@
+The model was trained using past student records.
+Accuracy was selected because the data was balanced.
+Flask was chosen because it is lightweight and easy to use.

@@ -1,0 +1,4 @@
+This project is a web application built using Flask.
+The backend exposes REST APIs for handling requests.
+A machine learning model is used to analyze student data.
+Model performance was evaluated using accuracy.
